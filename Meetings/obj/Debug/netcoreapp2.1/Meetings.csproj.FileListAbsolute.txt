@@ -1,0 +1,10 @@
+D:\Meetings-master\Meetings-master\Meetings\bin\Debug\netcoreapp2.1\Meetings.deps.json
+D:\Meetings-master\Meetings-master\Meetings\bin\Debug\netcoreapp2.1\Meetings.runtimeconfig.json
+D:\Meetings-master\Meetings-master\Meetings\bin\Debug\netcoreapp2.1\Meetings.runtimeconfig.dev.json
+D:\Meetings-master\Meetings-master\Meetings\bin\Debug\netcoreapp2.1\Meetings.dll
+D:\Meetings-master\Meetings-master\Meetings\bin\Debug\netcoreapp2.1\Meetings.pdb
+D:\Meetings-master\Meetings-master\Meetings\obj\Debug\netcoreapp2.1\Meetings.csprojAssemblyReference.cache
+D:\Meetings-master\Meetings-master\Meetings\obj\Debug\netcoreapp2.1\Meetings.AssemblyInfoInputs.cache
+D:\Meetings-master\Meetings-master\Meetings\obj\Debug\netcoreapp2.1\Meetings.AssemblyInfo.cs
+D:\Meetings-master\Meetings-master\Meetings\obj\Debug\netcoreapp2.1\Meetings.dll
+D:\Meetings-master\Meetings-master\Meetings\obj\Debug\netcoreapp2.1\Meetings.pdb
